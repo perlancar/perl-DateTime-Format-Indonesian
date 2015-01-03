@@ -131,8 +131,7 @@ sub parse_datetime {
 
 =head1 DESCRIPTION
 
-This is an early release. Not all things have been implemented yet. See
-L</"TODO">.
+This is an early release. Not all things have been implemented yet.
 
 
 =head1 METHODS
@@ -150,26 +149,6 @@ the recognized forms include:
 
  dd-mmm-yy or dd-mmm-yy   (other separators include whitespace or dash)
  dd-mmmm-yy or dd-mmmm-yy (long month names)
-
-
-=head1 TODO
-
-=over
-
-=item * Recognize more forms
-
-Try to guess whether 01/02/99 is d/m/y or m/d/y (check if the other one is
-impossible; default to d/m/y but if sees lots of other m/d/y then m/d/y).
-
- mmm-dd-yy[yy]
-
-=item * Autocorrect typo [#E]
-
-=item * Formatter [#B]
-
-=item * Recognize/parse/ignore day of week names
-
-=back
 
 
 =head1 SEE ALSO
