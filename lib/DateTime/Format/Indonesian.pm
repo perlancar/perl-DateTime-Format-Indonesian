@@ -18,7 +18,7 @@ my %short_id_month_names = (
     mei => 5,
     jun => 6,
     jul => 7,
-    agu => 8, agt => 8,
+    agu => 8, ags => 8, agt => 8,
     sep => 9, sept => 9,
     okt => 10,
     nop => 11, nov => 11,
