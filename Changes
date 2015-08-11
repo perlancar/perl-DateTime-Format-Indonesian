@@ -2,7 +2,9 @@ Revision history for DateTime-Format-Indonesian
 
 0.03    2015-08-10 (PERLANCAR)
 
-	- Accept 'agt' for August.
+	- Accept 'ags' for 'Agustus' in addition to 'agu' and 'agt' (turns out
+          'ags' is quite popular, e.g. in Surat Setoran Pajak, some
+          advertisements, etc).
 
 
 0.02    2015-01-03 (PERLANCAR)
