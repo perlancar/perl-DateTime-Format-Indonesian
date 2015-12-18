@@ -51,7 +51,7 @@ my %long_id_month_names = (
     agustus => 8,
     september => 9,
     oktober => 10,
-    november => 11, nopember => 12,
+    november => 11, nopember => 11,
     desember => 12,
 );
 
