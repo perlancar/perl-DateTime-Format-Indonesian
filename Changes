@@ -1,22 +1,22 @@
-0.04    2015-12-18 (PERLANCAR)
+0.04    2015-12-18  Released-By: PERLANCAR
 
 	- [Bugfix] nopember is 11 not 12, derp.
 
 
-0.03    2015-08-10 (PERLANCAR)
+0.03    2015-08-10  Released-By: PERLANCAR
 
 	- Accept 'ags' for 'Agustus' in addition to 'agu' and 'agt' (turns out
           'ags' is quite popular, e.g. in Surat Setoran Pajak, some
           advertisements, etc).
 
 
-0.02    2015-01-03 (PERLANCAR)
+0.02    2015-01-03  Released-By: PERLANCAR
 
 	- No functional changes.
 
 	- Rebuild (Generate TODO.md).
 
 
-0.01    2013-07-30 (SHARYANTO)
+0.01    2013-07-30  Released-By: SHARYANTO
 
         - First release.
